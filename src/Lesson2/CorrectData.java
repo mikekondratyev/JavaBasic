@@ -1,5 +1,6 @@
+package Lesson2;
 
-     class CorrectDataType {public static void main(String[] args)
+class CorrectDataType {public static void main(String[] args)
     {
         int numberOne = 10;
 

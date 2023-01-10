@@ -1,5 +1,6 @@
+package Lesson2;
 
-     public class SumTwoNumbers {public static void main(String[] args) {
+public class SumTwoNumbers {public static void main(String[] args) {
          int numberOne=10;
          int numberTwo=20;
 

@@ -1,3 +1,4 @@
+package Lesson2;
 
 class SizeMatters{
 public static void main (String[] args)
