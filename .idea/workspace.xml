@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac59816b-db86-45dd-bd74-6ba2b37e13d6" name="Changes" comment="taen">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Dog/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error1/BookDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error2/PhoneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error3/CarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Error4/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/RobotDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Stroka.java" afterDir="false" />
+    <list default="true" id="ac59816b-db86-45dd-bd74-6ba2b37e13d6" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/RoboDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/WorkWithString/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/WorkWithString/WWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/ConverterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/CircleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Product/ProductDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/Operator/ConditionsOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/SumTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/SumTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Dog/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,13 +62,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestClass">
-    <configuration name="BankAccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Error4.BankAccountDemo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson6.HomeWork" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task8">
+    <configuration name="ProductDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Product.ProductDemo" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.Error4.*" />
+          <option name="PATTERN" value="Lesson6.HomeWork.Product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.Dog.DogDemo" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task5" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.Dog.*" />
+          <option name="PATTERN" value="Lesson6.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Output" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task6" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson6.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stroka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Stroka" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task7" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson6.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Test" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task8" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson6.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Output" />
-        <item itemvalue="Application.Stroka" />
-        <item itemvalue="Application.DogDemo" />
-        <item itemvalue="Application.BankAccountDemo" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.ProductDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673379552535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="taen">
+      <created>1673857212659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673857212659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +204,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tae" />
     <MESSAGE value="taen" />
-    <option name="LAST_COMMIT_MESSAGE" value="taen" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,10 +220,14 @@
           <line>2</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="8" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/Circle.java</url>
+          <line>11</line>
+          <properties class="Lesson6.HomeWork.Circle">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

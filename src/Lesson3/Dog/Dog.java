@@ -3,6 +3,22 @@ package Lesson3.Dog;
 import java.util.Scanner;
 
 public class Dog {
+    public String getNameDog() {
+        return nameDog;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public String getNewcolor() {
+        return newcolor;
+    }
+
     String nameDog;
     int age;
     String color;
