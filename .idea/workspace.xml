@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac59816b-db86-45dd-bd74-6ba2b37e13d6" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/RoboDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/WorkWithString/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/WorkWithString/WWS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/ConverterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/CircleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Product/ProductDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/Operator/ConditionsOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/ConditionsOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Calc/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Calc/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Exchange/Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Exchange/ExchangeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/HalfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Shops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Temper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Homework/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/Lessoncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7/ThreeNumbersCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8/ArrayMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Dog/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Dog/DogDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +67,13 @@
       <recent name="Lesson6.HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
-    <configuration name="ProductDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Product.ProductDemo" />
+  <component name="RunManager" selected="Application.Pizza">
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Homework.Clock" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.HomeWork.Product.*" />
+          <option name="PATTERN" value="Lesson7.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task5" />
+    <configuration name="Pizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Homework.Pizza" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.HomeWork.*" />
+          <option name="PATTERN" value="Lesson7.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task6" />
+    <configuration name="Shops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Homework.Shops" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.HomeWork.*" />
+          <option name="PATTERN" value="Lesson7.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task7" />
+    <configuration name="Temper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Homework.Temper" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.HomeWork.*" />
+          <option name="PATTERN" value="Lesson7.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.HomeWork.Task8" />
+    <configuration name="Weather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Homework.Weather" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.HomeWork.*" />
+          <option name="PATTERN" value="Lesson7.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.ProductDemo" />
+        <item itemvalue="Application.Pizza" />
+        <item itemvalue="Application.Clock" />
+        <item itemvalue="Application.Temper" />
+        <item itemvalue="Application.Shops" />
+        <item itemvalue="Application.Weather" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673857212659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <created>1674497248812</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674497248812</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +227,11 @@
           <line>2</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson7/Homework/Clock.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Lesson6/HomeWork/Circle/Circle.java</url>
           <line>11</line>
@@ -228,6 +240,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson7/Homework/Shops.java</url>
+          <line>7</line>
+          <properties class="Lesson7.Homework.Shops" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
