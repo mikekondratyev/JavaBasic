@@ -18,7 +18,7 @@ public class Task4Utils {
         int[] ourArray = new int[k];
 
         for (int i = 0; i < k; i++) {
-            ourArray[i] = (int) (Math.random() * 10 + 1);
+            ourArray[i] = (int) (Math.random() * 5 + 1);
 
         }
         //  System.out.println(ourArray.toString());
@@ -37,14 +37,14 @@ public class Task4Utils {
         int numberOfPairs = 0;
         for (int i = 0; i < inputArray.length; i++) {
             for (int j = 1; j < inputArray.length; j++) {
+
                 if (inputArray[i] + inputArray[j] == k) {
                     numberOfPairs = numberOfPairs + 1;
-                    break;
-                } else {continue;}
+                }
+
             }
-
         }
-
         return numberOfPairs;
     }
+
 }

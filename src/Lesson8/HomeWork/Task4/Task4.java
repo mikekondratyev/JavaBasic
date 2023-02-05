@@ -28,7 +28,7 @@ public class Task4 {
         System.out.println();
 
         int k = new Task4Utils().InputSampleNumber();
-        System.out.println("Your sample number is "+k);
+        System.out.println("Your sample number is " + k);
 
 int numberOfPairs = new Task4Utils().PairOfNumbers(ourArray, k);
         System.out.println("Number of pairs " + numberOfPairs);
